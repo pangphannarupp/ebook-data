@@ -1,0 +1,58 @@
+{
+    "EBOOK_APP": {
+        "featured_books": [
+            {
+                "id": "",
+                "cat_id": "",
+                "aid": "",
+                "book_title": "",
+                "book_cover_img": "",
+                "book_bg_img": "",
+                "book_file_type": "",
+                "total_rate": "",
+                "rate_avg": "",
+                "book_views": "",
+                "author_id": "",
+                "author_name": "",
+                "cid": "",
+                "category_name": ""
+            }
+        ],
+        "latest_books": [
+            {
+                "id": "",
+                "cat_id": "",
+                "aid": "",
+                "book_title": "",
+                "book_cover_img": "",
+                "book_bg_img": "",
+                "book_file_type": "",
+                "total_rate": "",
+                "rate_avg": "",
+                "book_views": "",
+                "author_id": "",
+                "author_name": "",
+                "cid": "",
+                "category_name": ""
+            }
+        ],
+        "popular_books": [
+            {
+                "id": "",
+                "cat_id": "",
+                "aid": "",
+                "book_title": "",
+                "book_cover_img": "",
+                "book_bg_img": "",
+                "book_file_type": "",
+                "total_rate": "",
+                "rate_avg": "",
+                "book_views": "",
+                "author_id": "",
+                "author_name": "",
+                "cid": "",
+                "category_name": ""
+            }
+        ]
+    }
+}
