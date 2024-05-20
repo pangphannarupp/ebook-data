@@ -3,7 +3,7 @@
         {
             "cid": "1",
             "category_name": "A",
-            "total_books": 100
+            "total_books": "100"
         }
     ]
 }
