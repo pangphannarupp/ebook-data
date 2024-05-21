@@ -1,74 +1,16 @@
 {
     "EBOOK_APP": {
         "featured_books": [
-            {
-                "id": "",
-                "cat_id": "",
-                "aid": "",
-                "book_title": "គណិតវិទ្យាថ្នាក់ទី១",
-                "book_cover_img": "",
-                "book_bg_img": "",
-                "book_file_type": "",
-                "total_rate": "",
-                "rate_avg": "",
-                "book_views": "",
-                "author_id": "",
-                "author_name": "",
-                "cid": "",
-                "category_name": ""
-            },
-            {
-                "id": "",
-                "cat_id": "",
-                "aid": "",
-                "book_title": "គណិតវិទ្យាថ្នាក់ទី២",
-                "book_cover_img": "",
-                "book_bg_img": "",
-                "book_file_type": "",
-                "total_rate": "",
-                "rate_avg": "",
-                "book_views": "",
-                "author_id": "",
-                "author_name": "",
-                "cid": "",
-                "category_name": ""
-            }
+            {"id": "119", "cat_id": "24", "aid": "40", "featured": "1", "book_title": "រូបមន្តជីវៈវិទ្យា", "book_description": "", "book_cover_img": "2337_Screen-Shot-2023-08-04-at-4.07.35-PM.png", "book_bg_img": "70372_73212_39005_30522_31452_cover.jpg", "book_file_type": "local", "book_file_url": "10730_រូបមន្តជីវៈវិទ្យា.pdf", "total_rate": "0", "rate_avg": "0", "book_views": "61", "status": "1", "author_id": "",  "author_name": "", "cid": "", "category_name": ""},
+            {"id": "120", "cat_id": "16", "aid": "40", "featured": "1", "book_title": "សិល្បះចរចា", "book_description": "", "book_cover_img": "23940_Screenshot-2024-02-18-193430.png", "book_bg_img": "4929_88603_73212_39005_30522_31452_cover.jpg", "book_file_type": "local", "book_file_url": "34413_សិល្បះចរចា.pdf", "total_rate": "0", "rate_avg": "0", "book_views": "42", "status": "1", "author_id": "",  "author_name": "", "cid": "", "category_name": ""}
         ],
         "latest_books": [
-            {
-                "id": "",
-                "cat_id": "",
-                "aid": "",
-                "book_title": "DSFDAS",
-                "book_cover_img": "",
-                "book_bg_img": "",
-                "book_file_type": "",
-                "total_rate": "",
-                "rate_avg": "",
-                "book_views": "",
-                "author_id": "",
-                "author_name": "",
-                "cid": "",
-                "category_name": ""
-            }
+            {"id": "119", "cat_id": "24", "aid": "40", "featured": "1", "book_title": "រូបមន្តជីវៈវិទ្យា", "book_description": "", "book_cover_img": "2337_Screen-Shot-2023-08-04-at-4.07.35-PM.png", "book_bg_img": "70372_73212_39005_30522_31452_cover.jpg", "book_file_type": "local", "book_file_url": "10730_រូបមន្តជីវៈវិទ្យា.pdf", "total_rate": "0", "rate_avg": "0", "book_views": "61", "status": "1", "author_id": "",  "author_name": "", "cid": "", "category_name": ""},
+            {"id": "120", "cat_id": "16", "aid": "40", "featured": "1", "book_title": "សិល្បះចរចា", "book_description": "", "book_cover_img": "23940_Screenshot-2024-02-18-193430.png", "book_bg_img": "4929_88603_73212_39005_30522_31452_cover.jpg", "book_file_type": "local", "book_file_url": "34413_សិល្បះចរចា.pdf", "total_rate": "0", "rate_avg": "0", "book_views": "42", "status": "1", "author_id": "",  "author_name": "", "cid": "", "category_name": ""}
         ],
         "popular_books": [
-            {
-                "id": "",
-                "cat_id": "",
-                "aid": "",
-                "book_title": "GDFWE",
-                "book_cover_img": "",
-                "book_bg_img": "",
-                "book_file_type": "",
-                "total_rate": "",
-                "rate_avg": "",
-                "book_views": "",
-                "author_id": "",
-                "author_name": "",
-                "cid": "",
-                "category_name": ""
-            }
+            {"id": "119", "cat_id": "24", "aid": "40", "featured": "1", "book_title": "រូបមន្តជីវៈវិទ្យា", "book_description": "", "book_cover_img": "2337_Screen-Shot-2023-08-04-at-4.07.35-PM.png", "book_bg_img": "70372_73212_39005_30522_31452_cover.jpg", "book_file_type": "local", "book_file_url": "10730_រូបមន្តជីវៈវិទ្យា.pdf", "total_rate": "0", "rate_avg": "0", "book_views": "61", "status": "1", "author_id": "",  "author_name": "", "cid": "", "category_name": ""},
+            {"id": "120", "cat_id": "16", "aid": "40", "featured": "1", "book_title": "សិល្បះចរចា", "book_description": "", "book_cover_img": "23940_Screenshot-2024-02-18-193430.png", "book_bg_img": "4929_88603_73212_39005_30522_31452_cover.jpg", "book_file_type": "local", "book_file_url": "34413_សិល្បះចរចា.pdf", "total_rate": "0", "rate_avg": "0", "book_views": "42", "status": "1", "author_id": "",  "author_name": "", "cid": "", "category_name": ""}
         ]
     }
 }
