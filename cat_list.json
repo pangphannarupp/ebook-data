@@ -1,9 +1,20 @@
 {
     "EBOOK_APP": [
-        {
-            "cid": "1",
-            "category_name": "A",
-            "total_books": "100"
-        }
+        {"cid": "12", "category_name": "គណិតវិទ្យា", "total_books": "0"},
+        {"cid": "13", "category_name": "អក្សរសាស្ត្រ អក្សរសិល្ប៍ខ្មែរ", "total_books": "0"},
+        {"cid": "14", "category_name": "រូបវិទ្យា", "total_books": "0"},
+        {"cid": "15", "category_name": "គណិតវិទ្យាសម្រាប់សិស្សពូកែ", "total_books": "0"},
+        {"cid": "16", "category_name": "វប្បធម៌ទូទៅ", "total_books": "0"},
+        {"cid": "17", "category_name": "គតិលោក", "total_books": "0"},
+        {"cid": "18", "category_name": "គណិតវិទ្យាជាភាសាអង់គ្លេស", "total_books": "0"},
+        {"cid": "19", "category_name": "English", "total_books": "0"},
+        {"cid": "20", "category_name": "ICT", "total_books": "0"},
+        {"cid": "21", "category_name": "ត្រៀមប្រឡងនានា", "total_books": "0"},
+        {"cid": "22", "category_name": "ប្រវត្តិ", "total_books": "0"},
+        {"cid": "23", "category_name": "ស្ថាបត្យកម្ម", "total_books": "0"},
+        {"cid": "24", "category_name": "ជីវវិទ្យា", "total_books": "0"},
+        {"cid": "25", "category_name": "វប្បធម៌ និងអរិយធម៌", "total_books": "0"},
+        {"cid": "26", "category_name": "ភូមិវិទ្យា", "total_books": "0"},
+        {"cid": "27", "category_name": "វចនានុក្រម", "total_books": "0"}
     ]
 }
