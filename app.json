@@ -1,0 +1,22 @@
+[
+    {
+        "app_name": "Example",
+        "app_id": "kh.com.phanna.flutter.framework.example",
+        "app_version": "5.1.2",
+        "app_url": "https://apps.apple.com/us/app/khmer-e-books/id6446008860",
+        "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test.png",
+        "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
+        "type_id": 1,
+        "os": "iOS"
+    },
+    {
+        "app_name": "Example",
+        "app_id": "kh.com.phanna.flutter_framework",
+        "app_version": "2.1.0",
+        "app_url": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/apk/khmer-dictionary.apk",
+        "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test.png",
+        "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
+        "type_id": 1,
+        "os": "Android"
+    }
+]
