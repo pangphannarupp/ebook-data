@@ -11,7 +11,7 @@
     },
     {
         "app_name": "Example",
-        "app_id": "kh.com.phanna.flutter_framework",
+        "app_id": "kh.com.phanna.flutter_framework_example",
         "app_version": "2.1.0",
         "app_url": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/apk/khmer-dictionary.apk",
         "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test.png",
