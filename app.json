@@ -7,7 +7,8 @@
         "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test.png",
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
         "type_id": 1,
-        "os": "iOS"
+        "os": "iOS",
+        "app_under_maintenance": true
     },
     {
         "app_name": "Example",
@@ -17,6 +18,7 @@
         "app_icon": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/icon/test.png",
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
         "type_id": 1,
-        "os": "Android"
+        "os": "Android",
+        "app_under_maintenance": false
     }
 ]
