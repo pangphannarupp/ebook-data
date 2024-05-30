@@ -19,6 +19,6 @@
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
         "type_id": 1,
         "os": "Android",
-        "app_under_maintenance": false
+        "app_under_maintenance": true
     }
 ]
