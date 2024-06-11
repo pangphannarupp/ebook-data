@@ -20,5 +20,16 @@
         "type_id": 1,
         "os": "Android",
         "app_under_maintenance": true
+    },
+    {
+        "app_name": "Khmer E-Books",
+        "app_id": "phanna.app.ebook",
+        "app_version": "1.4.0",
+        "app_url": "https://apps.apple.com/us/app/khmer-e-books/id6446008860",
+        "app_icon": "",
+        "app_thumbnail": "",
+        "type_id": 1,
+        "os": "iOS",
+        "app_under_maintenance": false
     }
 ]
