@@ -28,7 +28,9 @@
             "- បានជួសជុលកំហុស",
             "- ការកែលម្អការអនុវត្ត"
         ],
-        "app_under_maintenance": true
+        "app_under_maintenance": true,
+        "app_under_maintenance_title": "កម្មវិធីស្ថិតនៅក្រោមការថែទាំ",
+        "app_under_maintenance_message": "កម្មវិធីបច្ចុប្បន្នកំពុងស្ថិតក្រោមការថែទាំ។ សូមពិនិត្យមើលឡើងវិញឆាប់ៗនេះ។"
     },
     {
         "app_name": "Khmer E-Books",
