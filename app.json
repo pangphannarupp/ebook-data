@@ -19,6 +19,7 @@
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
         "type_id": 1,
         "os": "Android",
+        "in_app_update_force": true,
         "in_app_update_title": "ជំនាន់ថ្មី",
         "in_app_update_app_version": "ជំនាន់ 2.1.0",
         "in_app_update_message": "យើងសូមណែនាំឱ្យអ្នកធ្វើបច្ចុប្បន្នភាពកម្មវិធីទៅកំណែជំនាន់ចុងក្រោយបំផុត។",
