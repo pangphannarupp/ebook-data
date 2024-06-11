@@ -19,6 +19,11 @@
         "app_thumbnail": "https://raw.githubusercontent.com/pangphannarupp/appstore/main/thumbnail/test12.png",
         "type_id": 1,
         "os": "Android",
+        "update_message": "យើងសូមណែនាំឱ្យអ្នកធ្វើបច្ចុប្បន្នភាពកម្មវិធីទៅកំណែជំនាន់ចុងក្រោយបំផុត។",
+        "whats_new": [
+            "- បានជួសជុលកំហុស",
+            "- ការកែលម្អការអនុវត្ត"
+        ],
         "app_under_maintenance": true
     },
     {
